@@ -1,0 +1,12 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f8f9fa;
+}
+.card {
+  border-radius: 12px;
+  background: white;
+}
+.table th,
+.table td {
+  vertical-align: middle;
+}
